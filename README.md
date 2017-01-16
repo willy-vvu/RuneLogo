@@ -4,9 +4,9 @@
 
 ![](RuneFinal.jpg)
 
-<iframe width="475" height="313" src="https://www.youtube.com/embed/Hkv235UgQwA" frameborder="0" allowfullscreen></iframe>
+[![](RuneIntroAnimation.gif)](https://www.youtube.com/watch?v=Hkv235UgQwA)
 
-Alternatively, view the [GIF](RuneIntroAnimation.gif).
+Click the GIF to view it in higher quality.
 
 ---
 
